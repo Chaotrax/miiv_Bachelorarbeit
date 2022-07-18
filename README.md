@@ -1,2 +1,2 @@
 # miiv_Bachelorarbeit
-eine Anwendung zur Lokalisierung unbestimmter Orte aus historischen (Reise-)Beschreibungen
+eine Anwendung zur Lokalisierung unbestimmter Orte z.B. aus historischen (Reise-)Beschreibungen
